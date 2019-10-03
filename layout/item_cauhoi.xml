@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnCauMot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Câu 1" />
+
+    <Button
+        android:id="@+id/btnCauHai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Câu 2" />
+
+    <Button
+        android:id="@+id/btnCauBa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Câu 3" />
+
+    <Button
+        android:id="@+id/btnCauBon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Câu 4" />
+</LinearLayout>
